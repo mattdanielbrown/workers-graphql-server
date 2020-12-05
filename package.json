@@ -5,8 +5,8 @@
   "version": "1.1.1",
   "author": "Kristian Freeman <kristian@bytesized.xyz>",
   "dependencies": {
-    "apollo-datasource-rest": "^0.3.2",
-    "apollo-server-cloudflare": "^2.16.1",
+    "apollo-datasource-rest": "^0.9.5",
+    "apollo-server-cloudflare": "^2.19.0",
     "graphql": "^14.2.1"
   },
   "license": "MIT",
