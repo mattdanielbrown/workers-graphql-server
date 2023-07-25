@@ -10,7 +10,7 @@
     "graphql": "^15.6.0"
   },
   "devDependencies": {
-    "prettier": "^2.4.1",
+    "prettier": "^2.8.8",
     "webpack": "^5.56.0"
   },
   "scripts": {
