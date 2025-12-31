@@ -20,7 +20,7 @@
     "@graphql-codegen/introspection": "4.0.3"
   },
   "dependencies": {
-    "@apollo/server": "^4.11.0",
+    "@apollo/server": "^5.0.0",
     "@as-integrations/cloudflare-workers": "^1.0.2",
     "graphql": "^16.9.0",
     "hono": "^4.6.5"
